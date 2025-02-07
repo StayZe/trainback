@@ -3,11 +3,11 @@
 
 Lancer le server (MacOS) :
 
-```sudo php -S localhost:80```
+```sudo php -S localhost:8080```
 
 Windows :
 
-```php -S localhost:80```
+```php -S localhost:8080```
 
 Changer les identifiants de la database :
 
